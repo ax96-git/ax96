@@ -1,0 +1,13 @@
+body{
+	background-color: #fff;
+}
+#top{
+	background-color: #385898;
+	display: flex;
+	padding-top: 1.5%;
+	padding-left: 15%;
+	padding-bottom: 0%;
+}
+#t3{
+	padding-top: 5%;
+}
